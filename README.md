@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# OIBSIP
-=======
 # OIBSIP
 Python Chat Application
 
@@ -79,5 +76,4 @@ Sinchana N S
 
 Internship
 
-OASIS INFOBYTE – Python Programming Internship                                                                                       
->>>>>>> 9719a7e (initial commit)
+OASIS INFOBYTE – Python Programming Internship                                                                                     
